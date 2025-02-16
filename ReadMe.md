@@ -1,4 +1,4 @@
-# SD Card Reader - JPEG Test
+# SD Card Reader - GIF Test
 
 ## Notes:
 
